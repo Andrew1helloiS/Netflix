@@ -122,15 +122,4 @@ header {
   transform: scale(1.1);
 }
 
-iframe {
-  position: relative;
-  top: 300px;
-  right: 0;
-  left: 1150px;
-  bottom: 200px;
-  margin: 10px;
-  width: 690px;
-  height: 350px;
-  z-index: 1;
-  border-radius: 200px;
-}
+
